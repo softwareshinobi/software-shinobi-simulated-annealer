@@ -75,3 +75,17 @@ Feel free to contribute your improvements and explore the potential of Simulated
 ### License
 
 This project is licensed under the terms of the MIT License: [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT). Please refer to the LICENSE file for details.
+
+## why i really wrote this
+
+this project is just the r and d for the trading robot.
+
+which is r and d for something else.
+
+anyways. i'm going to optimize a trading robot configuration using SA and GAs.
+
+so step one is reviving my old shit i lost. in this case all the ai stuff i wrote.
+
+ugh. committee machines, genetic algorithms, annealers. whatever.
+
+redid it in a fucking hour.
